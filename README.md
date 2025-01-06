@@ -7,14 +7,14 @@ Bot ini dirancang untuk memudahkan dalam mengelola data buyer VPN, termasuk pena
 
 Sebelum menjalankan bot ini, pastikan Anda telah menginstal hal-hal berikut di server/VPS Anda:
 
-- **Node.js** (versi terbaru disarankan)
-- **npm** (Node Package Manager)
+- Node.js (versi terbaru disarankan)
+- npm (Node Package Manager)
 
 Jika Anda belum menginstal Node.js dan npm, Anda bisa mengikutinya di [situs resmi Node.js](https://nodejs.org/).
 
 ## Langkah-langkah Installasi
 
-1. **Clone repository ini ke VPS Anda**:
+1. Clone repository ini ke VPS Anda:
 
    Jalankan perintah berikut untuk menyalin repository ini ke direktori lokal Anda:
 
